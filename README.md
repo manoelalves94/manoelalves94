@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá! Sou o Manoel 👋
+<div>
+  <a href = "https://www.linkedin.com/in/manoel-henrique-araujo-alves-85016b193/" target = "_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "mailto:manoel.alves94@outlook.com" target = "_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+</div>
 
-<!--
-**manoelalves94/manoelalves94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/manoelalves94">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manoelalves94&show_icons=true&theme=dark&include_all_commits=true&count+private=true"/>
+</div>
 
-Here are some ideas to get you started:
+#### Tecnologias que estou estudando
+<div style="display: inline_block"><br>
+  <img allign="center" src="https://devicons.dev.br/icons?icon=CS,DotNet,MySQL,Git,Postman,SQLite&theme=dark">     
+          
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
