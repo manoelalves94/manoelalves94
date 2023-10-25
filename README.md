@@ -3,7 +3,8 @@
   <a href = "https://www.linkedin.com/in/manoel-henrique-araujo-alves-85016b193/" target = "_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "mailto:manoel.alves94@outlook.com" target = "_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </div>
-
+<p></p>
+<p><a href="https://manoelalves94.github.io/" target = "_blank">Github page.<a/>
 <p></p>
          
 <div>
